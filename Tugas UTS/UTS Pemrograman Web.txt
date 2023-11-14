@@ -1,0 +1,27 @@
+UTS Pemrograman Web
+-----------------------------
+Nama  : Dzaky Jaisy Alqorney
+NIM   : 22416255201061
+Kelas : IF22C
+-----------------------------
+
+Soal dan Jawaban UTS PEMWEB (1 dan 2)
+--------------------------------------
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawab : framework  adalah suatu cara kerja dalam pengembangan perangkat lunak yang menyediakan aturan dan alat  untuk memudahkan  pembuatan aplikasi atau sistem. Tujuannya sekarang adalah untuk mempercepat pembangunan dengan menyediakan platform yang dapat digunakan kembali. Contoh  yang sering digunakan dalam teori atau praktek pada mata kuliah PW adalah bootstrapping.
+
+--------------------------------------
+2. Pertanyaan seputar projek
+a. Sebutkan tema proyek yang sedang digarap!
+Jawab: Tema projek yang sedang saya kerjakan dengan rekan satu tim saya yaitu lab dengan scope sarana dan prasarana dengan system peminjaman
+
+b. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+Jawab: 
+- Ludfi (Saya): jobdesk saya di projek ini sebagai analisis seperti pengerjaan desain uml dan desain database
+- Devi: Jobdesk teman saya yang satu ini focus terhadap laporan projek yang sedang berjalan ini
+- Dzaky: Jobdesk teman saya yang satu ini sebagai frontend di dalam project kita.
+
+Sebenarnya pembagian jobdesk ini menurut saya hanya formalitas semata, karena dalam pengerjaan semuanya kita kerjakan secara bareng bareng. Supaya masing masing dari kita mengerti dan paham semua kerangka dari awal hingga akhir final projek ini nanti.
+
+c. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawab: Jadi permasalahan yang kita dapat setelah survei di laboratorium terpadu UBP dengan menyesuaikan tema kita yaitu lab dengan scope sarana dan prasarana dengan system peminjaman. Bahwa masalah yang ada yaitu dalam peminjaman masih secara manual tapi secara system untuk sarana prasarana sudah ada, jadi kita di sini sepakat dengan client bahwasan nya kita bakal membuat system yang sudah di buat dengan ditambahkannya system peminjaman.
